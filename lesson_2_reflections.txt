@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-Creates a new empty repository
+-Inicialize the repository and start to add files to it
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-not commit all the files
